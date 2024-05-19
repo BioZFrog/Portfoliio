@@ -756,7 +756,7 @@ header{
     .AboutMe{
         position: absolute;
         top: 158%;
-        left: 46%;
+        left: 45%;
         color: white;
         font-family: "Itim", cursive;
         font-weight: 300;
@@ -781,7 +781,7 @@ header{
     .Experiencebtn2{
         position: absolute;
         cursor: pointer;
-        top: 180%;
+        top: 190%;
         left: 9%;
         border: 2px solid black;
         width: 110px;
@@ -840,7 +840,7 @@ header{
     .Footer{
         overflow-x: hidden;
         position: absolute;
-        top: 446%;
+        top: 450%;
         left: 0%;
         z-index: 1;
         background-color: #000000; 
