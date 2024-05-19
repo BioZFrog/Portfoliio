@@ -781,7 +781,7 @@ header{
     .Experiencebtn2{
         position: absolute;
         cursor: pointer;
-        top: 190%;
+        top: 185%;
         left: 9%;
         border: 2px solid black;
         width: 110px;
@@ -840,7 +840,7 @@ header{
     .Footer{
         overflow-x: hidden;
         position: absolute;
-        top: 450%;
+        top: 446%;
         left: 0%;
         z-index: 1;
         background-color: #000000; 
