@@ -697,7 +697,7 @@ header{
     .hi{
         z-index: 2;
         position: absolute;
-        bottom: 30%;
+        bottom: 8%;
         left: 15%;
         font-family: "Itim", cursive;
         font-weight: 400;
@@ -718,7 +718,7 @@ header{
     .name{
         z-index: 2;
         position: absolute;
-        bottom: 25%;
+        bottom: 3%;
         left: 16%;
         font-family: "Itim", cursive;
         font-weight: bolder;
@@ -729,7 +729,7 @@ header{
     .work{
         z-index: 2;
         position: absolute;
-        bottom: 22%;
+        bottom: -1%;
         left: 15%;
         font-family: "Itim", cursive;
         font-weight: bolder;
