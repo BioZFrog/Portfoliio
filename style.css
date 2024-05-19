@@ -208,6 +208,7 @@ header{
     position: absolute;
     bottom: 30%;
     left: 16%;
+    text-wrap: nowrap;
     font-family: "Itim", cursive;
     font-weight: bolder;
     font-style: normal;
