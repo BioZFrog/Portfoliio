@@ -756,7 +756,7 @@ header{
     .AboutMe{
         position: absolute;
         top: 158%;
-        left: 49%;
+        left: 46%;
         color: white;
         font-family: "Itim", cursive;
         font-weight: 300;
@@ -840,7 +840,7 @@ header{
     .Footer{
         overflow-x: hidden;
         position: absolute;
-        top: 440%;
+        top: 446%;
         left: 0%;
         z-index: 1;
         background-color: #000000; 
