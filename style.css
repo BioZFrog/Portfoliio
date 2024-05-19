@@ -613,8 +613,11 @@ header{
 }
 
 @media only screen and (max-width: 600px) {
-    html, body{
-        overflow-x: hidden;
+    html, body {
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
+        padding: 0;
     }
 
     h1{
@@ -999,5 +1002,35 @@ header{
         border: none;
         color: none;
         outline: none;
+    }
+    .g1{
+        position: absolute;
+        top: 390%;
+        left: 0%;
+    }
+    .g2{
+        position: absolute;
+        top: 390%;
+        left: 35.7%;
+    }   
+    .g3{
+        position: absolute;
+        top: 390%;
+        left: 12.7%;
+    }
+    .g4{
+        position: absolute;
+        top: 390%;
+        left: 60.7%;
+    }
+
+    .g5{
+        position: absolute;
+        top: 390%;
+        left: 76.7%;
+    }
+    .details{
+        position: absolute;
+        left: 23%;
     }
 }
