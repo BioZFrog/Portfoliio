@@ -718,8 +718,8 @@ header {
   }
 
   .cer1 {
-    width: 130px;
-    height: 120px;
+    width: 180px;
+    height: 155px;
   }
   header {
     background-color: #000000;
@@ -982,7 +982,7 @@ header {
   .Experiencef {
     z-index: 2;
     position: absolute;
-    top: 458%;
+    top: 586%;
     left: 35%;
     color: white;
   }
@@ -1021,7 +1021,7 @@ header {
 
   .my {
     position: absolute;
-    top: 398%;
+    top: 428%;
     left: 38%;
     font-family: "Itim", cursive;
     font-weight: 700;
