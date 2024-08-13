@@ -936,8 +936,6 @@ header {
   }
 
   .cer1 {
-    position: absolute;
-    left: 12%;
     width: 200px;
     height: 250px;
   }
@@ -984,7 +982,7 @@ header {
   .Contacdtmef {
     z-index: 2;
     position: absolute;
-    top: 458%;
+    top: 596%;
     left: 56%;
     color: white;
   }
@@ -992,7 +990,7 @@ header {
   .Projectsef {
     z-index: 2;
     position: absolute;
-    top: 458%;
+    top: 596%;
     left: 79%;
     color: white;
   }
@@ -1000,7 +998,7 @@ header {
   .Certificatesf {
     z-index: 2;
     position: absolute;
-    top: 458%;
+    top: 596%;
     left: 102%;
     color: white;
   }
