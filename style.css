@@ -696,19 +696,29 @@ header {
 }
 
 @media only screen and (max-width: 600px) {
+  .my {
+    position: absolute;
+    top: 428%;
+    left: 38%;
+    font-family: "Itim", cursive;
+    font-weight: 700;
+    font-style: bolder;
+    font-size: 30px;
+  }
+
+  .cer1 {
+    position: absolute;
+    top: 445%;
+    width: 240px;
+    height: 165px;
+  }
+
   html,
   body {
     width: 100%;
     max-width: 100%;
     margin: 0;
     padding: 0;
-  }
-
-  .cer1 {
-    position: absolute;
-    top: 445%;
-    width: 220px;
-    height: 165px;
   }
 
   .Certificatesf {
@@ -1022,15 +1032,6 @@ header {
     font-size: 40px;
   }
 
-  .my {
-    position: absolute;
-    top: 428%;
-    left: 38%;
-    font-family: "Itim", cursive;
-    font-weight: 700;
-    font-style: bolder;
-    font-size: 30px;
-  }
   #orange {
     z-index: 2;
     position: absolute;
