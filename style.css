@@ -704,11 +704,23 @@ header {
     padding: 0;
   }
 
+  .Certificatesf {
+    z-index: 2;
+    position: absolute;
+    top: 586%;
+    left: 71%;
+    color: white;
+  }
+
   h1 {
     font-size: 36px;
     line-height: 50px;
   }
 
+  .cer1 {
+    width: 130px;
+    height: 120px;
+  }
   header {
     background-color: #000000;
     bottom: auto;
@@ -935,40 +947,35 @@ header {
     height: 150px;
   }
 
-  .cer1 {
-    width: 200px;
-    height: 250px;
-  }
-
   .fa-brands.fa-instagram.fa-2xl {
     position: absolute;
-    top: 450%;
+    top: 581%;
     z-index: 3;
     left: 38%;
   }
   .fa-brands.fa-x-twitter.fa-2xl {
     position: absolute;
-    top: 450%;
+    top: 581%;
     z-index: 3;
     left: 47%;
   }
   .fa-brands.fa-github.fa-2xl {
     position: absolute;
-    top: 450%;
+    top: 581%;
     z-index: 3;
     left: 56%;
   }
 
   .fa-brands.fa-youtube.fa-2xl {
     position: absolute;
-    top: 450%;
+    top: 581%;
     z-index: 3;
     left: 66%;
   }
   .Portfoliof {
     z-index: 2;
     position: absolute;
-    top: 458%;
+    top: 581%;
     left: 17%;
     color: white;
   }
@@ -982,7 +989,7 @@ header {
   .Contacdtmef {
     z-index: 2;
     position: absolute;
-    top: 596%;
+    top: 586%;
     left: 56%;
     color: white;
   }
@@ -990,7 +997,7 @@ header {
   .Projectsef {
     z-index: 2;
     position: absolute;
-    top: 596%;
+    top: 586%;
     left: 79%;
     color: white;
   }
@@ -998,7 +1005,7 @@ header {
   .Certificatesf {
     z-index: 2;
     position: absolute;
-    top: 596%;
+    top: 586%;
     left: 102%;
     color: white;
   }
@@ -1014,7 +1021,7 @@ header {
 
   .my {
     position: absolute;
-    top: 368%;
+    top: 398%;
     left: 38%;
     font-family: "Itim", cursive;
     font-weight: 700;
