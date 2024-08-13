@@ -704,6 +704,11 @@ header {
     padding: 0;
   }
 
+  .cer1 {
+    width: 180px;
+    height: 155px;
+  }
+
   .Certificatesf {
     z-index: 2;
     position: absolute;
@@ -717,10 +722,6 @@ header {
     line-height: 50px;
   }
 
-  .cer1 {
-    width: 180px;
-    height: 155px;
-  }
   header {
     background-color: #000000;
     bottom: auto;
@@ -975,7 +976,7 @@ header {
   .Portfoliof {
     z-index: 2;
     position: absolute;
-    top: 581%;
+    top: 586%;
     left: 17%;
     color: white;
   }
