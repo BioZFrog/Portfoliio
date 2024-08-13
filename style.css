@@ -705,8 +705,10 @@ header {
   }
 
   .cer1 {
-    width: 180px;
-    height: 155px;
+    position: absolute;
+    top: 445%;
+    width: 220px;
+    height: 165px;
   }
 
   .Certificatesf {
@@ -1027,7 +1029,7 @@ header {
     font-family: "Itim", cursive;
     font-weight: 700;
     font-style: bolder;
-    font-size: 40px;
+    font-size: 30px;
   }
   #orange {
     z-index: 2;
