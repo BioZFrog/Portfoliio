@@ -927,7 +927,7 @@ header {
   .Footer {
     overflow-x: hidden;
     position: absolute;
-    top: 656%;
+    top: 576%;
     left: 0%;
     z-index: 1;
     background-color: #000000;
@@ -936,7 +936,9 @@ header {
   }
 
   .cer1 {
-    width: 200;
+    position: absolute;
+    left: 12%;
+    width: 200px;
     height: 250px;
   }
 
