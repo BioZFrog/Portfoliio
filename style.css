@@ -719,12 +719,13 @@ header {
     top: 445%;
     width: 280px;
     height: 175px;
+    left: 12%;
   }
 
   .cer2 {
     position: absolute;
     top: 470%;
-    width: 350px;
+    width: 380px;
     height: 175px;
     left: 12%;
   }
