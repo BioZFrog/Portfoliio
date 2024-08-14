@@ -9,7 +9,15 @@ html {
   width: 400px;
   height: 280px;
   top: 445%;
-  left: 36%;
+  left: 5%;
+}
+
+.cer2 {
+  position: absolute;
+  width: 550px;
+  height: 280px;
+  top: 445%;
+  left: 60%;
 }
 
 .Certificates {
@@ -713,6 +721,13 @@ header {
     height: 175px;
   }
 
+  .cer2 {
+    position: absolute;
+    top: 470%;
+    width: 280px;
+    height: 175px;
+  }
+
   html,
   body {
     width: 100%;
@@ -1100,7 +1115,7 @@ header {
     top: 110%;
     width: 80px;
     height: 25px;
-    left: 4.6%;
+    left: 11.6%;
     border: 2px solid rgb(16, 27, 227);
     border-radius: 10px;
     outline: none;
