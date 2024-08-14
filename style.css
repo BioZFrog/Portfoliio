@@ -724,8 +724,9 @@ header {
   .cer2 {
     position: absolute;
     top: 470%;
-    width: 280px;
+    width: 350px;
     height: 175px;
+    left: 12%;
   }
 
   html,
