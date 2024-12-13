@@ -4,12 +4,20 @@ html {
   scroll-behavior: smooth;
 }
 
+.python {
+  position: absolute;
+  width: 400px;
+  height: 280px;
+    top: 445%;
+  left: 33%;
+}
+
 .cer1 {
   position: absolute;
   width: 400px;
   height: 280px;
   top: 445%;
-  left: 5%;
+  left: 1%;
 }
 
 .cer2 {
